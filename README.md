@@ -27,10 +27,4 @@
 * Expanding the study to include more cities and finer spatial resolution data.
 * Incorporating additional environmental factors such as air quality and water bodies.
 * Developing predictive models to forecast future trends in urban green space dynamics.
-### Contributors
-1. Bansir Chovatiya 
-2. Nishtha Pavasia 
-3. Bhoomit Prajapati 
-4. Meera Prajapati 
-### Acknowledgments    
-We express our sincere gratitude to our project guide, sahilmerai/support , for their guidance and support. 
+
