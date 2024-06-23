@@ -1,6 +1,6 @@
 # UrbanGreenInsights :deciduous_tree:
 
-**"UrbanGreenInsights: Satellite Insights into Green Spaces for Sustainable Cities"** is a project focused on assessing green spaces in Tier-1 and Tier-2 cities using satellite remote sensing data. The study aims to contribute to Sustainable Development **Goal 15 (SDG-15) - "Life on Land"** by evaluating urban greenery dynamics and providing insights into sustainable urban development.
+**"UrbanGreenInsights: Satellite Insights into Green Spaces for Sustainable Cities"** is a project focused on assessing green spaces in Tier-1 (Ahemdabad,Mummbai,Bengaluru) and Tier-2 (Surat,Vadodara,Chandigarh) cities using satellite remote sensing data. The study aims to contribute to Sustainable Development **Goal 15 (SDG-15) - "Life on Land"** by evaluating urban greenery dynamics and providing insights into sustainable urban development.
 ### Objectives :heavy_check_mark:
 * To utilize satellite remote sensing data to assess green spaces in urban areas.
 * To calculate ratios and elasticities based on built-up and vegetation classes.
